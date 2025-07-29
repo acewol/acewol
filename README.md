@@ -44,6 +44,18 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<img src="https://ghchart.rshah.org/acewol" alt="acewol's GitHub contribution graph" />
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=acewol&theme=radical" alt="GitHub Streak Stats" />
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
