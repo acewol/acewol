@@ -1,7 +1,7 @@
 <!-- Заголовок и приветствие -->
 <h1 align="center">Hi there 👋, I'm Alexander</h1>
 <p align="center">
-  <a href="https://github.com/alexander">
+  <a href="https://github.com/acewol">
     <img src="https://komarev.com/ghpvc/?username=alexander&color=blue" alt="Profile views" />
   </a>
   <a href="https://linkedin.com/in/alexander">
