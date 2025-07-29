@@ -4,10 +4,7 @@
   <a href="https://github.com/acewol">
     <img src="https://komarev.com/ghpvc/?username=alexander&color=blue" alt="Profile views" />
   </a>
-  <a href="https://linkedin.com/in/alexander">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:slam.medvedi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -17,7 +14,7 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Telegram bots** and Python backends  
 - 🌱 I’m learning **advanced Django**, REST, and **asyncio**  
-- 🐍 My main languages: Python, SQL  
+- 🐍 My main languages: Python, Go  
 - ⚡ Fun fact: I love solving LeetCode puzzles in my free time  
 
 ---
@@ -50,7 +47,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexander&theme=onedark&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=acewol&theme=onedark&margin-w=15" alt="Trophies" />
 </p>
 
 ---
