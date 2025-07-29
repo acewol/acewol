@@ -39,7 +39,7 @@
   <!-- Статистика коммитов -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander&show_icons=true&theme=radical" alt="GitHub Stats" />
   <!-- Топ языков -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexander&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acewolr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
