@@ -1,5 +1,5 @@
 <!-- Заголовок и приветствие -->
-<h1 align="center">Hi there 👋, I'm Alexander</h1>
+<h1 align="center">Hi there 👋, I'm acewol</h1>
 <p align="center">
   <a href="https://github.com/acewol">
     <img src="https://komarev.com/ghpvc/?username=alexander&color=blue" alt="Profile views" />
@@ -37,7 +37,7 @@
 
 <p>
   <!-- Статистика коммитов -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexander&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acewol&show_icons=true&theme=radical" alt="GitHub Stats" />
   <!-- Топ языков -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acewol&layout=compact&theme=radical" alt="Top Languages" />
 </p>
