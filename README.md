@@ -56,18 +56,16 @@
 
 | Проект                          | Описание                                       | Ссылка                                 |
 |---------------------------------|------------------------------------------------|----------------------------------------|
-| Telegram Bot Framework          | Набор утилит для удобной разработки ботов      | https://github.com/alexander/telegram-framework |
-| Django REST API for Marketplace | REST API для магазина предметов искусства       | https://github.com/alexander/art-shop-api |
-| Character Counter Utility       | CLI‑программа для подсчёта символов в тексте   | https://github.com/alexander/char-count-cli |
+| Telegram Bot Framework          | Бот по отправке кодов авторизации а ресурс      | [https://github.com/acewol/MailBotTGapi |
+| Django REST API for Marketplace | REST API для магазина предметов искусства       | https://github.com/acewol/Gallery |
 
 ---
 
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/alexander"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/@acevol"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:slam.medvedi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
